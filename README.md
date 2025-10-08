@@ -230,7 +230,7 @@
 - Clone this repo:
 
 ```
-git clone https://github.com/VJBots/WZML-X mirrorbot/ && cd mirrorbot
+git clone https://github.com/Satyamurthi/CS-leech/ && cd mirrorbot
 ```
 
 - For Debian based distros
